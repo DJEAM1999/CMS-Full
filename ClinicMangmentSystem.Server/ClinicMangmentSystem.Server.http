@@ -1,0 +1,6 @@
+@ClinicMangmentSystem.Server_HostAddress = http://localhost:5095
+
+GET {{ClinicMangmentSystem.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

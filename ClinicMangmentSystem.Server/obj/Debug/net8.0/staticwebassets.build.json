@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "0gHxC2B6zVjMhdwyQPNbB0xtpUffYBulJuOk82FIABg=",
+  "Source": "ClinicMangmentSystem.Server",
+  "BasePath": "_content/ClinicMangmentSystem.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Work\\ClinicMangmentSystem\\clinicmangmentsystem.client\\clinicmangmentsystem.client.esproj",
+      "Version": 2,
+      "Source": "clinicmangmentsystem.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
